@@ -1,0 +1,2 @@
+1. virtualenvforpython > pythongeeks-project > source pythongeeks-project/bin/activate ile virtual env'i çalıştır.    
+2. virtualenvforpython > projects > lab'i aç ve terminalden appi calıstırmak için: flask --app server --debug run
